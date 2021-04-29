@@ -47,6 +47,6 @@
     "GITHUB_CLIENT_SECRET": "a3453b8768a63a02a9bf0be2a4e16d856f2eba98",
     "MONGODB_ATLAS_URI": "mongodb+srv://user:user@cluster0.fv5ou.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "STRIPE_SECRET": "pk_test_51IldH6GKHBp4fEPtwIHBV0xnT5B3NMRLmi0O0u4UMEmDr0QVOe3CtkzHhWCaFMFEZX43aRIOuGvs8pBjV5fYrJz4004pblaOv7",
-    "GITHUB_CALLBACK_URL": "https://vrs-git-master-navatar.vercel.app/auth/github"
+    "GITHUB_CALLBACK_URL": "https://vrs-git-master-navatar.vercel.app"
   }
 }
