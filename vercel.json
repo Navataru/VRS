@@ -43,9 +43,9 @@
     }
   ],
   "env": {
-    "GITHUB_CLIENT_ID": "@vrs-github-client-id",
-    "GITHUB_CLIENT_SECRET": "@vrs-github-client-secret",
-    "MONGODB_ATLAS_URI": "@vrs-mongodb-atlas-uri",
+    "GITHUB_CLIENT_ID": "befb6c86c2cd5d733ff7",
+    "GITHUB_CLIENT_SECRET": "a3453b8768a63a02a9bf0be2a4e16d856f2eba98",
+    "MONGODB_ATLAS_URI": "mongodb+srv://user:user@cluster0.fv5ou.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "STRIPE_SECRET": "@vrs-stripe-secret"
   }
 }
