@@ -75,9 +75,9 @@ export default function Nav({
                 className={`link dim white dib mr3 v-mid ${
                   router === "/store" ? "bb" : ""
                 }`}
-                title="MyStore"
+                title="Store"
               >
-                Store
+                My Store
               </a>
             </Link>
             <Link href="/about">
